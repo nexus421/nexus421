@@ -1,8 +1,5 @@
-# Hi there 👋
-
 **Kotlin enthusiast. Building for Android & JVM. Living in the Linux terminal.**
 
-### 🛠 My Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
