@@ -7,12 +7,12 @@
 
 ---
 
-### 🔍 About Me
-- 🌍 Based in **Bavaria, Germany** 🇩🇪
-- 🚀 Passionate about writing clean code with **Kotlin**.
-- 🐧 Most productive when working inside a **Linux terminal**.
-- 📱 Focused on **Android** development and the **JVM** ecosystem.
-- 🛠️ Big fan of the Open Source community.
+### About Me
+- Based in **Bavaria, Germany** 🇩🇪
+- Passionate about writing clean code with **Kotlin**.
+- Most productive when working inside a **Linux terminal**.
+- Focused on **Android** development and the **JVM** ecosystem.
+- Big fan of the Open Source community.
 
 ---
 <!--
