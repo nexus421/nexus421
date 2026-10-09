@@ -1,3 +1,5 @@
+<img align="right" width="200" src="https://static.kickner.bayern/img/logo_3d.jpg" alt="nexus421 Logo">
+
 **Kotlin enthusiast. Building for Android & JVM. Living in the Linux terminal.**
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
